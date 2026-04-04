@@ -1,6 +1,4 @@
-## Hello there <img src="static/general.png" alt="General icon" height="28" />
-
-Cloud security practitioner in progress, focused on secure-by-default infrastructure and reliable delivery across cloud platforms.
+## Hello there <img src="static/general.png" alt="General icon" height="28" style="vertical-align: middle;"/>
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/bartosz-piekarczyk-7739982a6/">
@@ -19,19 +17,21 @@ Cloud security practitioner in progress, focused on secure-by-default infrastruc
 I am a cybersecurity student pursuing a Master's degree and working in cloud environments across projects involving data and AI workloads, security baselines, policy-driven controls, and strictly configured Terraform modules.
 
 Current focus areas:
-- Cloud and Infrastructure Security
-- CTFs and Pentesting
-- Distributed Systems with Enterprise-Grade Standards
+- cloud and infrastructure security and observability
+- CTFs and pentesting
+- distributed systems with enterprise-grade standards
+- breaking things in labs and CTF scenarios
 
 ## Tech I Use Daily
 
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=aws,azure,terraform,github,githubactions,azuredevops,py,cs,bash" alt="Daily technologies" />
+	<img src="https://skillicons.dev/icons?i=aws,azure,terraform,github,githubactions,py,cs,bash" alt="Daily technologies" />
 </p>
 
 <p align="left">
 	<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 	<img alt="Azure Pipelines" src="https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white" />
+    <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-565060?style=flat-square&logo=azuredevops&logoColor=white">
 </p>
 
 ## Currently Learning
@@ -46,12 +46,6 @@ Current focus areas:
 	<img alt="CTFs" src="https://img.shields.io/badge/CTFs-1B263B?style=flat-square" />
 </p>
 
-## What I Care About
-
-- Building secure and observable cloud platforms
-- Automating guardrails with policy and IaC controls
-- Learning by breaking things in labs and CTF scenarios
-
 ## Contribution Snake
 
 <p align="center">
@@ -64,5 +58,5 @@ Current focus areas:
 
 ## Beyond Tech
 
-- Saxophone player
-- Better improviser in the kitchen than on the saxophone
+- saxophone player
+- better improviser in the kitchen than on the saxophone
