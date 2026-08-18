@@ -37,13 +37,14 @@ Current focus areas:
 ## Currently Learning
 
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=kubernetes,ansible,jenkins,prometheus,grafana,linux" alt="Technologies currently being developed" />
+	<img src="https://skillicons.dev/icons?i=kubernetes,ansible,prometheus,grafana,linux,openshift" alt="Technologies currently being developed" />
 </p>
 
 <p align="left">
 	<img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
-	<img alt="Distributed Systems" src="https://img.shields.io/badge/Distributed%20Systems-2D6A4F?style=flat-square" />
+	<img alt="Spark" src="https://img.shields.io/badge/Spark-2D6A4F?style=flat-square" />
 	<img alt="CTFs" src="https://img.shields.io/badge/CTFs-1B263B?style=flat-square" />
+	<img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-C2263B?style=flat-square" />
 </p>
 
 ## Contribution Snake
